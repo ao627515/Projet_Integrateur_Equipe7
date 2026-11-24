@@ -1,0 +1,182 @@
+[
+  {
+    "numero": 11,
+    "texte": "Le contrat de stage est une convention par laquelle une personne appelée maître de stage s'engage à donner ou à faire donner à une autre personne, appelée stagiaire, une formation professionnelle pratique.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 8)",
+    "reason": "Début tronqué sur PDF JO (5 mots) ; texte complet vérifié sur PNG p. 8"
+  },
+  {
+    "numero": 12,
+    "texte": "Le contrat de stage a pour objet de faire acquérir au stagiaire une expérience et des aptitudes professionnelles afin de faciliter son accès à un emploi et son insertion dans la vie professionnelle.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 8)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 8"
+  },
+  {
+    "numero": 18,
+    "texte": "L'embauche d'un apprenti lié par un contrat d'apprentissage, sans l'accord du maître de l'apprenti, ouvre droit à des dommages et intérêts à la charge de l'employeur au profit du maître de l'apprenti, sans préjudice des sanctions pénales prévues au titre IX de la présente loi. Toutefois, l'employeur est exempté du paiement des dommages et intérêts s'il apporte la preuve de sa bonne foi.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 10)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 10"
+  },
+  {
+    "numero": 35,
+    "texte": "Le contrat de travail est toute convention écrite ou verbale par laquelle une personne physique, appelée travailleur, s'engage à mettre son activité professionnelle, moyennant rémunération, sous la direction et l'autorité d'une autre personne physique ou morale, publique ou privée, appelée employeur. Le contrat de travail est conclu librement et est constaté dans les formes convenues par les parties contractantes sous réserve des dispositions des articles 48 alinéa 2, 62 à 65 et 73 de la présente loi. La preuve de l'existence du contrat de travail peut être apportée par tous moyens. Les formes et les modalités d'établissement du contrat de travail sont déterminées par voie règlementaire, après avis de la commission consultative du travail.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 14)",
+    "reason": "Début et segments masqués par OCR JO ; texte complet vérifié sur PNG p. 14"
+  },
+  {
+    "numero": 54,
+    "texte": "Le contrat de travail à temps partiel est le contrat de travail dont la durée hebdomadaire de travail est inférieure à la durée hebdomadaire légale. Le travail à temps partiel est rémunéré au prorata du temps de travail effectivement accompli. Les modalités d'application du travail à temps partiel sont déterminées par voie règlementaire, après avis de la commission consultative du travail.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 20, p. 21)",
+    "reason": "Ligne tronquée par le paraphe/bas de page en OCR"
+  },
+  {
+    "numero": 59,
+    "texte": "Le contrat de travail à durée déterminée ne peut être conclu avec le même travailleur plus de trois fois ou renouvelé plus de deux fois. Le renouvellement du contrat de travail à durée déterminée ou la prolongation de sa durée équivaut à la conclusion d'un nouveau contrat. La poursuite des services au-delà des cas prévus à l'alinéa 1 constitue de plein droit l'exécution d'un contrat de travail à durée indéterminée.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 22)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 22"
+  },
+  {
+    "numero": 66,
+    "texte": "Le visa du contrat de travail du travailleur non national est subordonné à l'acquittement de frais, nonobstant les dispositions de l'article 36 de la présente loi. Le montant et les modalités de paiement des frais de visa sont déterminés par voie règlementaire, après avis de la commission consultative du travail.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 24)",
+    "reason": "Fin corrompue sur PDF JO ; texte complet vérifié sur PNG p. 24"
+  },
+  {
+    "numero": 82,
+    "texte": "Au sens de la présente loi, est abusif le licenciement effectué sans motif légitime. Sont notamment abusifs, les licenciements effectués dans les cas suivants : 1) lorsque le motif invoqué est inexact; 2) lorsque le licenciement est motivé par les opinions du travailleur, son activité syndicale, son appartenance ou non à un syndicat, son statut sérologique à VIH réel ou supposé; 3) lorsque le licenciement est motivé par la grossesse de la travailleuse ou la naissance de son enfant; 4) lorsque le licenciement est motivé par le fait que le travailleur sollicite, exerce ou a exercé un mandat de représentation des travailleurs; 5) lorsque le licenciement est motivé par le témoignage, le dépôt d'une plainte du travailleur ou de tout recours contre l'employeur ou les autorités administratives; 6) lorsque le licenciement est fondé sur la discrimination prévue à l'article 4 de la présente loi ou motivé par l'état matrimonial, les responsabilités familiales du travailleur.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 27, p. 28)",
+    "reason": "Point final masqué par filigrane et espace manquant ; vérifié sur PNG p. 27-28"
+  },
+  {
+    "numero": 103,
+    "texte": "Le fait pour le travailleur d'assurer provisoirement ou par intérim un emploi comportant un classement supérieur dans la hiérarchie professionnelle ne lui confère pas automatiquement le droit aux avantages pécuniaires ou autres attachés audit emploi. La position d'intérimaire est notifiée au travailleur par écrit, avec mention de la durée. Sauf dans le cas de maladie, d'accident survenu au titulaire de l'emploi ou de remplacement de ce dernier pour la période d'un congé ou d'un stage, cette durée ne peut excéder: 1) un mois pour les ouvriers et les employés; 2) trois mois pour le cadre, l'agent de maîtrise, le technicien et assimilés. A l'échéance de la durée de l'intérim et sauf les cas visés ci-dessus, l'employeur règle définitivement la situation du travailleur en cause, soit en le reclassant dans la catégorie correspondant au nouvel emploi occupé jusque-là, soit en lui rendant ses anciennes fonctions.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 33)",
+    "reason": "Début et phrase médiane tronqués sur PDF JO ; vérifié sur PNG p. 33"
+  },
+  {
+    "numero": 114,
+    "texte": "Les causes de cessation des relations de travail sont : 1) la cessation d'accord-parties ; 2) la cessation d'activités de l'employeur ; 3) l'annulation et la résolution judiciaires du contrat de travail ; 4) l'arrivée du terme du contrat à durée déterminée ; 5) la démission ; 6) le licenciement ; 7) la retraite ; 8) l'incapacité permanente totale de travail telle que définie par la réglementation en vigueur ; 9) le décès.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 38)",
+    "reason": "Point 8 partiellement masqué par le filigrane en OCR"
+  },
+  {
+    "numero": 134,
+    "texte": "La convention collective de travail peut également contenir, sans que cette énumération ne soit limitative : 1) les primes d'assiduité et de rendement; 2) les primes de panier pour les travailleurs devant prendre leur repas sur le lieu de travail; 3) les indemnités pour frais professionnels et assimilés; 4) les indemnités de transport; 5) les indemnités pour travaux pénibles, dangereux, insalubres, salissants; 6) les conditions générales de la rémunération au rendement ou à la commission; 7) les conditions d'embauche et de licenciement des travailleurs, sans que les dispositions prévues puissent porter atteinte au libre choix du syndicat par le travailleur; 8) les conditions particulières de travail des femmes dans certaines entreprises se trouvant dans le champ d'application de la convention collective de travail; 9) les conditions particulières de travail des personnes handicapées; 10) les conditions particulières de travail des adolescents dans certaines entreprises se trouvant dans le champ d'application de la convention collective de travail; 11) les conditions particulières de travail telles que les travaux par roulement, les travaux durant le repos hebdomadaire et durant les jours chômés et payés; 12) l'organisation et le fonctionnement de l'apprentissage, du stage et de la formation professionnelle dans le cadre de l'activité considérée; 13) les modalités de constitution du cautionnement visé au chapitre 4 du titre IV de la présente loi; 14) l'emploi à temps réduit de certaines catégories de personnel et leurs conditions de rémunération; 15) l'organisation, la gestion et le financement des services sociaux et médicosociaux; 16) les procédures de conciliation relatives au règlement des différends collectifs de travail; 17) les conditions de mise en disponibilité du travailleur; 18) les conditions et les modalités de mise en œuvre du télétravail ou travail à distance; 19) l'avancement; 20) le reclassement. Les dispositions facultatives reconnues utiles dans la convention collective peuvent être rendues obligatoires par voie réglementaire.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 45, p. 46)",
+    "reason": "Début tronqué, point 11) omis et artefact sur PDF JO ; vérifié sur PNG p. 45-46"
+  },
+  {
+    "numero": 171,
+    "texte": "L'employeur ne peut prononcer le licenciement de la femme en congé de maternité. Il ne peut en outre, même avec son accord, l'employer dans les six semaines qui suivent son accouchement. Toute convention contraire est nulle de plein droit.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 55)",
+    "reason": "Début de phrase tronqué par le filigrane en OCR"
+  },
+  {
+    "numero": 173,
+    "texte": "Les enfants et les adolescents ne peuvent être affectés à des travaux susceptibles de porter atteinte à leur santé, à leur développement et à leur capacité de reproduction. Un décret en Conseil des ministres détermine, après avis du comité technique national consultatif de sécurité et santé au travail, la nature des travaux interdits aux enfants et aux adolescents ainsi que les catégories d'entreprises interdites aux personnes âgées de moins de dix-huit ans.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 56)",
+    "reason": "Mot 'les' altéré en 'tes' et caractère parasite ; vérifié sur PNG p. 56"
+  },
+  {
+    "numero": 217,
+    "texte": "Le paiement du salaire en espèces se fait au lieu du travail en dehors du jour où le travailleur a droit au repos.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 68)",
+    "reason": "Coquille 'pajement' et point final ajouté après vérification sur PNG p. 68"
+  },
+  {
+    "numero": 237,
+    "texte": "Le travailleur dispose de son salaire à son gré sans ingérence de la part de l'employeur. Il ne peut être fait de retenue sur les rémunérations que par saisie-attribution ou cession volontaire, souscrite devant la juridiction de droit commun de l'ordre judiciaire du lieu de résidence ou du lieu de travail ou à défaut devant l'inspection du travail, conformément aux textes en vigueur. Il en est de même du remboursement d'avances d'argent consenties au travailleur par l'employeur, à l'exception des prélèvements obligatoires et des consignations prévues par les conventions collectives et des prélèvements des cotisations syndicales par une retenue à la source ou check-off. Il ne peut y avoir compensation entre la rémunération et les sommes dues par le travailleur que dans la limite de la partie saisissable et sur les seules sommes immobilisées. Toutefois, lorsque la juridiction ou l'inspection du travail se situe à plus de vingt- cinq kilomètres, un accord entre les parties peut être constaté par écrit devant le chef de la circonscription administrative la plus proche.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 73)",
+    "reason": "Début tronqué et mots collés sur PDF JO ; vérifié sur PNG p. 73"
+  },
+  {
+    "numero": 260,
+    "texte": "Lorsque les mesures prises en vertu de l'article 259 ci-dessus ne sont pas suffisantes pour garantir la sécurité et la santé des travailleurs, des mesures de protection individuelle contre les risques professionnels sont mises en œuvre. Lorsque les mesures prises en vertu de l'article 259 ci-dessus requièrent l'utilisation d'un équipement approprié par le travailleur, cet équipement ainsi que les instructions nécessaires pour son port et son entretien optimal sont fournis par l'employeur. Dans ce cas, aucun travailleur n'est admis à son poste de travail que revêtu de son équipement de protection individuelle.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 78)",
+    "reason": "Début et segments masqués par filigrane sur PDF JO ; vérifié sur PNG p. 78"
+  },
+  {
+    "numero": 288,
+    "texte": "L'inspecteur du travail contrôle le respect par l'employeur des dispositions en matière de sécurité et de santé au travail.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 87)",
+    "reason": "Fin terminée par virgule ; normalisée avec point final après vérification PNG p. 87"
+  },
+  {
+    "numero": 305,
+    "texte": "Toute organisation syndicale régulièrement constituée et représentative des travailleurs conformément aux dispositions de l'article 297 de la présente loi ne peut désigner qu'un délégué syndical au sein de l'entreprise ou de l'établissement. La désignation est notifiée par lettre à l'employeur qui en accuse réception. Une copie de cette lettre est transmise à l'inspecteur du travail du ressort.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 91)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 91"
+  },
+  {
+    "numero": 325,
+    "texte": "Un texte règlementaire fixe, après avis de la commission consultative du travail : 1) le nombre de travailleurs à partir duquel l'institution des délégués du personnel est obligatoire; 2) le nombre de délégués et leur répartition sur le plan professionnel; 3) les modalités de l'élection; 4) la durée et la rémunération du temps de travail dont disposent les délégués du personnel pour l'accomplissement de leurs fonctions; 5) les moyens mis à la disposition des délégués du personnel; 6) les conditions dans lesquelles ils sont reçus par l'employeur ou son représentant; 7) les conditions de révocation du délégué du personnel par les travailleurs qui l'ont élu.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 95, p. 96)",
+    "reason": "Point 5) omis en bas de page sur PDF JO ; vérifié sur PNG p. 95-96"
+  },
+  {
+    "numero": 329,
+    "texte": "Le licenciement d'un délégué du personnel titulaire ou suppléant envisagé par l'employeur ou son représentant est soumis à l'autorisation préalable de l'inspecteur du travail. Toutefois, en cas de faute lourde, l'employeur peut prononcer la mise à pied provisoire de l'intéressé dans l'attente de cette autorisation.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 96)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 96"
+  },
+  {
+    "numero": 330,
+    "texte": "La réponse de l'inspecteur du travail intervient dans un délai de quinze jours ouvrables, sauf cas de force majeure. Passé ce délai, l'autorisation est réputée accordée. Si l'autorisation préalable n'est pas accordée par l'inspecteur du travail, au cas où le délégué du personnel a fait l'objet de mise à pied, il est réintégré avec paiement des salaires afférents à la période de suspension.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 97)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 97"
+  },
+  {
+    "numero": 341,
+    "texte": "En cas d'échec, un procès-verbal de non-conciliation est dressé et signé par l'inspecteur du travail et les parties au litige. Le procès-verbal de non-conciliation contient, outre les mentions ordinaires nécessaires à sa validité : 1) l'énoncé des différents chefs de réclamations et les sommes réclamées; 2) les chefs de réclamations abandonnés par le demandeur et les sommes correspondantes. Mention expresse est faite par l'inspecteur du travail du refus de signer le procès- verbal de l'une des parties.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 100)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 100"
+  },
+  {
+    "numero": 351,
+    "texte": "Pour chaque audience, le président désigne les assesseurs employeur et travailleur figurant sur la liste prescrite par l'article 352 de la présente loi. Les assesseurs titulaires sont remplacés, en cas d'empêchement, par les assesseurs suppléants. Au cas où l'un ou les deux assesseurs dûment convoqués ne se présentent pas, le président leur adresse une seconde convocation. En cas de nouvelle absence de l'un ou des deux assesseurs, le président statue seul.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 103)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 103"
+  },
+  {
+    "numero": 358,
+    "texte": "Le tribunal de travail est compétent pour connaître des différends individuels pouvant s'élever entre les travailleurs, les stagiaires et leurs employeurs, les apprentis et leurs maîtres, à l'occasion de l'exécution des contrats. Il est également compétent pour connaître : 1) des litiges nés de l'application du régime de sécurité sociale; 2) des différends individuels relatifs à l'application des conventions collectives de travail et aux arrêtés en tenant lieu; 3) des différends nés entre travailleurs à l'occasion du contrat de travail ainsi qu'aux actions directes des travailleurs contre l'entrepreneur prévues à l'article 94 de la présente loi et contre l'entreprise utilisatrice prévues à l'article 25 de la présente loi; 4) des différends nés entre travailleurs et employeurs à l'occasion du travail; 5) des différends nés entre les établissements publics de prévoyance sociale et leurs assujettis à l'exception des différends relevant de la compétence d'autres juridictions; 6) des actions récursoires des entrepreneurs contre les sous-traitants et des entreprises utilisatrices contre les entreprises de travail temporaire.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 105)",
+    "reason": "Mot collé 'IoiKinaaso' sur PDF JO ; vérifié sur PNG p. 105"
+  },
+  {
+    "numero": 394,
+    "texte": "La sentence du conseil d'arbitrage est notifiée sans délai par le président du conseil d'arbitrage aux parties ainsi qu'à l'inspecteur du travail ou au directeur central chargé du travail. La sentence est immédiatement exécutoire lorsqu'elle n'a pas fait l'objet de pourvoi en cassation par les parties ou par l'une d'entre elles. La sentence exécutoire est communiquée par l'inspecteur du travail du ressort ou le directeur central chargé du travail au greffe du tribunal de travail compétent, en vertu des dispositions de l'alinéa 4 de l'article 389 de la présente loi. La sentence qui a acquis force exécutoire peut être étendue dans les mêmes conditions qu'aux dispositions des articles 135, 136 et 137 de la présente loi.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 115)",
+    "reason": "Début tronqué sur PDF JO ; vérifié sur PNG p. 115"
+  },
+  {
+    "numero": 425,
+    "texte": "Lorsque la commission consultative du travail est saisie d'une des questions visées à l'article 424 de la présente loi, elle s'adjoint : 1) un représentant du ministre chargé des finances; 2) un représentant du ministre chargé de la justice; 3) un inspecteur du travail. La commission consultative du travail peut également faire appel, à toute personne dont la compétence est requise, conformément à l'article 423 de la présente loi.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 124)",
+    "reason": "Mots collés et artefact '4.0' sur PDF JO ; vérifié sur PNG p. 124"
+  },
+  {
+    "numero": 431,
+    "texte": "Le registre d'employeur est mis à la disposition de l'inspecteur du travail et conservé pendant les dix années suivant la dernière mention qui y a été portée.",
+    "verified_on": "decret_no2026-0613_code_du_travail_new.pdf (p. 126)",
+    "reason": "Début tronqué sur PDF JO ; texte complet vérifié sur PNG p. 126"
+  },
+  {
+    "numero": 435,
+    "texte": "Le chef d'entreprise est civilement responsable des condamnations en paiement des dommages et intérêts prononcées contre son fondé de pouvoirs ou préposés.",
+    "verified_on": "LOI_2026_..._cp.pdf (p. 125) / decret_no2026-0613_code_du_travail_new.pdf (p. 126)",
+    "reason": "Texte fantôme de la p. 127 JO collé après la fin de l'article 435"
+  },
+  {
+    "numero": 436,
+    "texte": "Sans préjudice des dispositions du code pénal, sont punis d'un emprisonnement d'un mois à trois ans et d'une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA : 1) les auteurs d'infractions aux dispositions des articles 4, 5, 18, 22, 31, 46, 123, 173, 206, 236, 254, 255, 302, 303, 304, 332, 334, 342 ; 2) toute personne qui, par quelque moyen ou manœuvre a contraint ou tenté de contraindre un travailleur à se faire embaucher, ou qui l'a empêché ou tenté de l'empêcher de se faire embaucher ou exécuter ses obligations imposées par son contrat ; 3) tout employeur, fondé de pouvoir ou préposé, qui a sciemment porté des attestations mensongères sur la carte du travailleur, le registre d'employeur ou tout autre document dû au travailleur ainsi que tout travailleur qui a sciemment fait usage de ces faux ; 4) toute personne non habilitée qui a exigé ou accepté du travailleur une rémunération quelconque à titre d'intermédiaire dans le règlement ou le paiement des salaires, indemnités, allocations et frais de toute nature ; 5) toute personne qui a fait sciemment une fausse déclaration d'accident de travail ou de maladie professionnelle ; 6) toute personne qui a porté ou tenté de porter atteinte, soit à la libre désignation des délégués du personnel, soit à l'exercice régulier de leurs fonctions ; 7) toute personne qui s'est opposée ou a tenté de s'opposer à l'exécution des obligations ou à l'exercice des pouvoirs qui incombent aux inspecteurs du travail, aux contrôleurs du travail agissant comme suppléants de l'inspecteur du travail et aux médecins inspecteurs du travail.",
+    "verified_on": "LOI_2026_..._cp.pdf (p. 126)",
+    "reason": "Double impression fantôme sur p. 127 JO, texte vérifié sur image PDF p. 126"
+  },
+  {
+    "numero": 437,
+    "texte": "Est puni d'un emprisonnement de deux mois à deux ans et d'une amende d'un million (1 000 000) de francs CFA à cinq millions (5 000 000) de francs CFA, tout employeur qui a détourné des sommes ou titres remis en cautionnement.",
+    "verified_on": "LOI_2026_..._cp.pdf (p. 126)",
+    "reason": "Double impression fantôme sur p. 127 JO, texte vérifié sur image PDF p. 126"
+  }
+]
