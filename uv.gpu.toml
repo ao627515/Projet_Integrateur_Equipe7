@@ -1,0 +1,4 @@
+# Configuration uv pour PC avec GPU NVIDIA CUDA (exclut onnxruntime CPU tiré par pymupdf)
+override-dependencies = [
+    "onnxruntime; sys_platform == 'never'",
+]

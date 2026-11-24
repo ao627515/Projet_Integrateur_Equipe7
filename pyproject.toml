@@ -1,0 +1,28 @@
+[project]
+name = "projet-integrateur-equipe7"
+version = "0.1.0"
+description = "Assistant intelligent de consultation du nouveau Code du travail burkinabè (loi n° 013-2026/ALP)"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    # PDF & OCR local
+    "pymupdf>=1.25.0",
+    "rapidocr>=3.10.0",
+    "psutil>=6.0.0",
+    # QA, BM25 & TF-IDF
+    "rank-bm25>=0.2.2",
+    "scikit-learn>=1.5.0",
+    "numpy>=1.26.0",
+    "nltk>=3.10.4",
+    "spacy>=3.8.18",
+    "torch>=2.15.0",
+]
+
+[dependency-groups]
+gpu = [
+    "onnxruntime-gpu>=1.20.0",
+    "nvidia-cublas>=13.0.0,<14.0.0",
+    "nvidia-cudnn-cu13>=9,<10",
+    "nvidia-cuda-runtime>=13,<14",
+    "nvidia-cufft>=12",
+]

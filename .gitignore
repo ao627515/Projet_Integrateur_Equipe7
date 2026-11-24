@@ -1,0 +1,44 @@
+# Environnements virtuels, Python & uv
+.venv/
+venv/
+env/
+.uv/
+.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets & variables d'environnement (ne jamais commiter de clés API)
+.env
+.env.*
+!.env.example
+
+# Données brutes volumineuses & modèles lourds
+data/raw/*.pdf
+data/raw/*.zip
+models/*.bin
+models/*.pt
+models/*.pth
+models/*.safetensors
+models/*.gguf
+models/*.onnx
+
+# Système, IDE & fichiers temporaires
+scratch/
+*.tmp
+*.lock
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~*.docx
+~*.pdf
+.ipynb_checkpoints/
